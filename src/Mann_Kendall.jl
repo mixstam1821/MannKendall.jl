@@ -4,6 +4,6 @@ using Statistics, StatsFuns
 
 include("functions.jl")
 
-export mannkendall
+export mann_kendall
 
 end # module
